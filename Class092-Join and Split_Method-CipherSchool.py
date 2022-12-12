@@ -1,12 +1,12 @@
 # split method
-user_info='harshit 24'.split()
+user_info='knight 24'.split()
 print(user_info)
 
-name,age='aaryan,18'.split(",")
+name,age='aman,18'.split(",")
 print(name)
 print(age)
 
 
 #joint method
-user_info=['aaryan','18']
+user_info=['aman','18']
 print(','.join(user_info))
