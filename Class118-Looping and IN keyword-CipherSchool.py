@@ -1,10 +1,10 @@
 user_info= {
-    'name': 'aaryan',
+    'name': 'aman',
     'age' : '18',
 }
 # if 'name' in user_info:
 # if 'surname' in user_info:
-# if 'aaryan' in user_info.values():
+# if 'aman' in user_info.values():
 #     print('present')
 # else:
 #     print('not present')
