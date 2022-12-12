@@ -1,7 +1,7 @@
 # # function practice
 def last_char(name):
     return name[-1]
-print(last_char("aaryan"))
+print(last_char("aman"))
 
 def odd_even(num):
     if num%2==0:
