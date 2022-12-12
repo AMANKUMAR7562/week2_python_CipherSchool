@@ -1,7 +1,7 @@
 user_info= {
-    'name': 'aaryan',
+    'name': 'aman',
     'age' : '18',
 }
-more_info={'name' : 'Aaryan Kashyap' , 'state' : 'Haryana' , 'Hobbies' : ['coding' , 'reading']}
+more_info={'name' : 'Aman Kumar' , 'state' : 'Delhi' , 'Hobbies' : ['coding' , 'reading']}
 user_info.update(more_info)
 print(user_info)
